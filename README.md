@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20KIMTAEYOUNG%20&animation=fadeIn&fontSize=40)
 
-![TaeYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=0taetae&show_icons=true&theme=radical)
+![TaeYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeYoung&show_icons=true&theme=radical)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=taeyoung0812)](https://solved.ac/taeyoung0812)
