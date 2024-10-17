@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+[![0taetae's GitHub stats](https://github-readme-stats.vercel.app/api?username=0taetae)](https://github.com/0taetae/github-readme-stats)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=taeyoung0812)](https://solved.ac/taeyoung0812)
 
