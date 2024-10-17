@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=HI%20I%20AM%20KIMTAEYOUNG%20&animation=fadeIn&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#FFB6C1&height=100&section=header&text=HI%20I%20AM%20KIMTAEYOUNG%20&animation=fadeIn&fontSize=40)
 
 ![TaeYoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=0taetae&show_icons=true&theme=radical)
 
