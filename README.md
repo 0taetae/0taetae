@@ -20,7 +20,18 @@
 - 기술 환경 : Spring Boot, Vue.js, Tailwind CSS, MySQL, Amazon S3, Spring Security, JWT, Redis, GitHub
 - 주요 기능 : 여행지 검색하기, 여행 계획 만들기, 경로 추천하기, 주변 명소 추천하기, 로그인, 리뷰게시판, 공지사항, 마이페이지
 - 맡은 역할
-  - ㅇㄹ
+  - Backend
+    - 여행 계획 만들기 기능
+    - 회원정보관리 기능
+    - 리뷰게시판 기능
+    - 공지사항 기능
+    - 마이페이지 기능
+  - Frontend
+    - 전반적인 UI 구현
+    - 여행 계획 만들기 기능
+    - 리뷰 게시판 기능
+    - 공지사항 기능
+    - 마이페이지(사용자 프로필/여행계획/리뷰 관리, 회원 정보 수정) 기능
 
 <!--
 **0taetae/0taetae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
