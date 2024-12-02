@@ -12,9 +12,15 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=mysql&logoColor=white"/>
 ### Frontend
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black"/>
 
 ## Project
-
+### EnjoyTrip
+- 이름 : TRIPPOLINE (Fall into Trip. 여행에 빠지다)
+- 기술 환경 : Spring Boot, Vue.js, Tailwind CSS, MySQL, Amazon S3, Spring Security, JWT, Redis, GitHub
+- 주요 기능 : 여행지 검색하기, 여행 계획 만들기, 경로 추천하기, 주변 명소 추천하기, 로그인, 리뷰게시판, 공지사항, 마이페이지
+- 맡은 역할
+  - ㅇㄹ
 
 <!--
 **0taetae/0taetae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
