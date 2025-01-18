@@ -8,12 +8,11 @@
 ## Tech Stack
 
 ### Backend
-<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=JPA&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-EE3221?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=round-square&logo=JPA&logoColor=white">
+
 ### Frontend
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=round-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black"/>
 
 
 
