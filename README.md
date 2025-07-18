@@ -5,11 +5,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0taetae&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=transparent" />
 
 </div>
-
 <div align="center">
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeyoung0812&size=40)](https://solved.ac/taeyoung0812)
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=taeyoung0812&size=40)](https://solved.ac/taeyoung0812)
 </div>
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
