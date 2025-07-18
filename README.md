@@ -2,9 +2,11 @@
 
 ## Github Stats  
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0taetae&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=0taetae&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=transparent" />
 
 </div>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=taeyoung0812)](https://solved.ac/taeyoung0812)
 
