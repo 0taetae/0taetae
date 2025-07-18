@@ -2,10 +2,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=0taetae&show_icons=true&count_private=true&theme=radical&hide_border=true" 
-    alt="TaeYoung's GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=0taetae&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </div>
 
 [![Solved.ac
